@@ -1,0 +1,44 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+
+# Local datasets and exported data
+archive/
+04_power_bi/data/
+*.csv
+*.xlsx
+*.parquet
+
+# SQL Server database and backup files
+*.bak
+*.mdf
+*.ldf
+
+# Power BI temporary files
+*.pbit.tmp
+*.pbix.tmp
+
+# Operating system and IDE files
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
