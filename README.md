@@ -247,6 +247,22 @@ Together, the four dashboards demonstrate how descriptive and predictive analyti
 
 *Dashboard screenshots and a shareable Power BI report version may be added to the repository after the final publication review.*
 
+
+
+### Dashboard Gallery
+
+#### Customer Analysis
+![Customer Analysis Dashboard](04_power_bi/screenshots/customer_analysis.png)
+
+#### Sales Overview
+![Sales Overview Dashboard](04_power_bi/screenshots/sales_overview.png)
+
+#### Product Analysis
+![Product Analysis Dashboard](04_power_bi/screenshots/product_analysis.png)
+
+#### Predictive Analytics
+![Predictive Analytics Dashboard](04_power_bi/screenshots/predictive_analytics.png)
+
 ---
 
 ## 8. Repository Structure
